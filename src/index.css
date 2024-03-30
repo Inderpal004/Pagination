@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  overflow: hidden;
+}
+
+.table-box{
+  width: 80%;
+  margin: 10px auto;
+}
+
+.loading-full{
+  width: 100%;
+  text-align: center;
+  margin: 30px;
+}
+
+.cursor{
+  cursor: pointer !important;
+}
